@@ -1,0 +1,4 @@
+# Project exclude paths
+/SpringEurekaClientSchoolService/target/
+/SpringEurekaClientStudentService/target/
+/SpringEurekaServer/target/
